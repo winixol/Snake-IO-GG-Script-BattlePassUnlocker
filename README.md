@@ -1,2 +1,2 @@
-# Stnake-IO-GG-Script-BattlePassUnlocker
+# Snake-IO-GG-Script-BattlePassUnlocker
 
