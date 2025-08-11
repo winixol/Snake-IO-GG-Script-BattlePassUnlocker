@@ -1,6 +1,7 @@
 -- 🐍 Snake.io Battle Pass Hack Script 🐍
 -- 🏗️ Assumes ARM64 architecture
 -- 💻 DEVELOPER : JUMEL
+-- DISCORD : @0jumel
 
 gg.setVisible(false)
 
@@ -93,4 +94,5 @@ while true do
         gg.toast("🚪 Exiting script. Goodbye! 👋")
         os.exit()
     end
+
 end
