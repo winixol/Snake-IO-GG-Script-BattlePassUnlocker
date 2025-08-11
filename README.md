@@ -12,7 +12,5 @@
 ## Community 💬
 Join Discord: (https://discord.gg/MvUg5GdTEW)
 
-## License 📄
-MIT—see [LICENSE](LICENSE)
 
 *Updated: August 11, 2025*
